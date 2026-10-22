@@ -1,0 +1,23 @@
+button {
+  width: 100px;
+  height: 30px;
+  border: 2px solid black;
+  border-radius: 12px;
+}
+.offline {
+  width: 80px;
+  height: 80px;
+}
+.online {
+  width: 80px;
+  height: 80px;
+}
+.b-online {
+  background-color: green;
+  color: white;
+}
+
+.b-ofline {
+  background-color: red;
+  color: white;
+}
